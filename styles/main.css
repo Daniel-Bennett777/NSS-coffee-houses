@@ -1,0 +1,17 @@
+.shop {
+    border: 1px dotted crimson;
+    padding: 0.5em;
+    margin: 0; /* Center align the text in the boxes */
+    text-align: left;
+}
+.pageHeader {
+    text-align: center;
+}
+
+.list {
+    column-count: 3;
+    padding: 0.5em;
+    margin: 0; /* Center align the text in the boxes */
+    text-align: left;
+    
+}
